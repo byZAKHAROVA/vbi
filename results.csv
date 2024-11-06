@@ -1,52 +1,52 @@
 ﻿state,id,vote
-Alabama,1,4
-Alaska,2,3
-Arizona,4,3
-Arkansas,5,2
+Alabama,1,4000
+Alaska,2,3000
+Arizona,4,3000
+Arkansas,5,2000
 California,6,0
 Colorado,8,0
 Connecticut,9,0
 Delaware,10,0
 District of Columbia,11,0
-Florida,12,4
-Georgia,13,4
+Florida,12,4000
+Georgia,13,4000
 Hawaii,15,0
-Idaho,16,4
+Idaho,16,4000
 Illinois,17,0
-Indiana,18,4
-Iowa,19,4
-Kansas,20,4
-Kentucky,21,4
-Louisiana,22,4
-Maine,23,1
+Indiana,18,4000
+Iowa,19,4000
+Kansas,20,4000
+Kentucky,21,4000
+Louisiana,22,4000
+Maine,23,1000
 Maryland,24,0
 Massachusetts,25,0
-Michigan,26,3
+Michigan,26,3000
 Minnesota,27,0
-Mississippi,28,4
-Missouri,29,4
-Montana,30,4
-Nebraska,31,4
-Nevada,32,3
+Mississippi,28,4000
+Missouri,29,4000
+Montana,30,4000
+Nebraska,31,4000
+Nevada,32,3000
 New Hampshire,33,0
 New Jersey,34,0
 New Mexico,35,0
 New York,36,0
-North Carolina,37,4
-North Dakota,38,4
-Ohio,39,4
-Oklahoma,40,4
+North Carolina,37,4000
+North Dakota,38,4000
+Ohio,39,4000
+Oklahoma,40,4000
 Oregon,41,0
-Pennsylvania,42,4
+Pennsylvania,42,4000
 Rhode Island,44,0
-South Carolina,45,4
-South Dakota,46,4
-Tennessee,47,4
-Texas,48,4
-Utah,49,4
+South Carolina,45,4000
+South Dakota,46,4000
+Tennessee,47,4000
+Texas,48,4000
+Utah,49,4000
 Vermont,50,0
 Virginia,51,0
 Washington,53,0
-West Virginia,54,4
-Wisconsin,55,4
-Wyoming,56,4
+West Virginia,54,4000
+Wisconsin,55,4000
+Wyoming,56,4000
