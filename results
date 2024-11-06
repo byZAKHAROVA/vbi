@@ -1,0 +1,52 @@
+state,id,vote
+Alabama,1,4
+Alaska,2,3
+Arizona,4,3
+Arkansas,5,2
+California,6,0
+Colorado,8,0
+Connecticut,9,0
+Delaware,10,0
+District of Columbia,11,0
+Florida,12,4
+Georgia,13,4
+Hawaii,15,0
+Idaho,16,4
+Illinois,17,0
+Indiana,18,4
+Iowa,19,4
+Kansas,20,4
+Kentucky,21,4
+Louisiana,22,4
+Maine,23,1
+Maryland,24,0
+Massachusetts,25,0
+Michigan,26,3
+Minnesota,27,0
+Mississippi,28,4
+Missouri,29,4
+Montana,30,4
+Nebraska,31,4
+Nevada,32,3
+New Hampshire,33,0
+New Jersey,34,0
+New Mexico,35,0
+New York,36,0
+North Carolina,37,4
+North Dakota,38,4
+Ohio,39,4
+Oklahoma,40,4
+Oregon,41,0
+Pennsylvania,42,4
+Rhode Island,44,0
+South Carolina,45,4
+South Dakota,46,4
+Tennessee,47,4
+Texas,48,4
+Utah,49,4
+Vermont,50,0
+Virginia,51,0
+Washington,53,0
+West Virginia,54,4
+Wisconsin,55,4
+Wyoming,56,4
